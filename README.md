@@ -77,3 +77,5 @@ myView.model #=> {height : 6.5, weight : 175, admin : true};
 ```
 ## Resources
 * [Tying the Model to the View](http://orizens.com/wp/topics/backbone-view-patterns-the-relationship-with-model/)
+
+<a href='https://learn.co/lessons/backbone-basic-models-and-views' data-visibility='hidden'>View this lesson on Learn.co</a>
